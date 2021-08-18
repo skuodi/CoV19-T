@@ -7,6 +7,7 @@ import plotly.graph_objects as go
 from dash.dependencies import Input, Output
 
 app = dash.Dash('__main__')
+server = app.server
 df = pd.read_csv('data/african.csv',index_col=1,parse_dates=True)
 #fig.update_traces(texttemplate='%{text:.2s}', textposition='outside')
 
