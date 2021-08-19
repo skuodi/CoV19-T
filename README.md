@@ -21,4 +21,7 @@ Hovering your mouse over the graph shows labelled data corresponding to the date
 - Automate data harvesting and filtering from the daily updated owid-covid repo [csv data file](https://github.com/owid/covid-19-data/blob/master/public/data/owid-covid-data.csv)
 - Make the map clickable so that when a country is clicked, it is added to/removed from those data is being graphed.  
 - Add options for different types of graphs to visualise the data.  
-- e.t.c ...assistance helpful suggestions are welcome.
+- e.t.c ...suggestions are welcome.
+
+
+*\*For some reason the assets/style.css file isn't taking effect. Assistance would be greatly appreciated*
